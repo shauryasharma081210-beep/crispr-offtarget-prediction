@@ -26,6 +26,9 @@ The biggest lesson wasn't about CRISPR biology, it was about not trusting a good
 
 
 Add sequence-context features beyond the 20-base guide (flanking DNA, local GC skew)
+
 Incorporate chromatin accessibility or epigenetic data, which the dataset filename (allframe_update_addEpige) suggests may be available
+
 Try the grouped-split evaluation across other techniques (GUIDE-seq, CIRCLE-seq) to see if the same leakage pattern holds
+
 Compare against published off-target scoring tools (CFD score, Elevation, CRISPOR) as a benchmark
